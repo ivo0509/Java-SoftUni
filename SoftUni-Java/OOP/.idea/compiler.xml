@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/OOP16-UnitTesting/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="OOP19-Exercise_TestDrivenDevelopment" />
+        <module name="OOP17-Exercise_UnitTesting" />
+        <module name="OOP16-UnitTesting" />
+        <module name="OOP18-TestDrivenDevelopment" />
+        <module name="OOP20-DesignPatterns" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Java OOP Exam - 16 August 2020" target="18" />
+      <module name="OOP18-Exercise_TestDrivenDevelopment" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
